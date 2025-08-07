@@ -42,7 +42,7 @@
     position: absolute;
     width: 50%;
     height: 2px;
-    background: crimson;
+    background: black;
     transition: all 0.5s;
 }
 
@@ -240,7 +240,7 @@
 }
 
 .footer i {
-    color: crimson;
+    color: black;
 }
 
 .footer .garis {
